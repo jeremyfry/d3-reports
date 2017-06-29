@@ -1,0 +1,76 @@
+Key,Summary,Issue Type,Status,Priority,Resolution,Created,Updated,Resolved,Linked Issues
+ISR-2402,Hotfix - Rescheduling an Existing Appointment with Increased Install Time,Bug,Closed,Major,Fixed,6/1/2017 9:45,6/15/2017 14:25,6/15/2017 9:01,
+ISR-2411,Precinct-Clicking on Precinct in the header from another page and creating another reservation does not display the triage,Bug,Closed,Major,Unresolved,6/2/2017 12:28,6/8/2017 17:15,,ISR-2276
+ISR-2416,Make field does not display all the Makes for the selected year,Bug,Closed,Major,Cannot Reproduce,6/3/2017 9:57,6/3/2017 11:14,6/3/2017 11:14,ISR-1796
+ISR-2417,Discrepancies between AgentUI and FitGuide,Bug,Resolved,Major,Fixed,6/3/2017 10:19,6/16/2017 8:05,6/16/2017 8:05,ISR-1798
+ISR-2418,"Trim option not enabled even though Year, Make and Model are entered",Bug,Closed,Major,Cannot Reproduce,6/3/2017 10:47,6/3/2017 11:21,6/3/2017 11:21,ISR-1982
+ISR-2419,The SKU section is missing on the Autotech Make Reservation page,Bug,Closed,Critical,Cannot Reproduce,6/3/2017 11:00,6/5/2017 9:10,6/5/2017 9:10,ISR-1800
+ISR-2421,Autotech/Make Reservation-The SKU table has the border cut off on one side in the header,Bug,Closed,Minor,Fixed,6/5/2017 9:07,6/27/2017 12:29,6/23/2017 12:53,ISR-1603
+ISR-2422,Next available appointment on the Map view is missing for selected date and/or time,Bug,Closed,Major,Fixed,6/5/2017 12:29,6/7/2017 12:38,6/7/2017 9:18,ISR-2308
+ISR-2423,Precinct-Info Page-Cancel Reservation Request clears and reloads the page but the Triage is not displayed anymore,Bug,Closed,Major,Unresolved,6/5/2017 14:47,6/8/2017 15:06,,"ISR-2291, ISR-2292"
+ISR-2425,Returning back to Info in Breadcrumb during reservation process removes the Vehicle info,Bug,Reopened,Critical,Fixed,6/5/2017 14:49,6/27/2017 15:23,6/7/2017 10:51,
+ISR-2428,Next Available not showing in the Map View,Bug,Closed,Major,Fixed,6/5/2017 15:15,6/5/2017 15:20,6/5/2017 15:20,
+ISR-2429,Precinct Store reflecting in Autotech reservation Store list view and Map View,Bug,Closed,Major,Fixed,6/5/2017 15:46,6/17/2017 17:27,6/7/2017 9:17,"ISR-2431, ISR-2307"
+ISR-2431,Discrepancy in visually represented of Greyed Out store,Bug,Closed,Major,Fixed,6/5/2017 15:57,6/7/2017 12:01,6/7/2017 9:17,"ISR-2429, ISR-2307"
+ISR-2434,No Error message displayed for previous date selection in the location lookup page,Bug,Closed,Major,Fixed,6/5/2017 16:45,6/7/2017 10:43,6/7/2017 10:43,"ISR-2327, ISR-2328"
+ISR-2456,Non Autotech Agent-Cannot make an autotech reservation,Bug,Closed,Major,Cannot Reproduce,6/6/2017 13:22,6/7/2017 14:48,6/7/2017 8:24,"ISR-2446, ISR-2448, ISR-2450, ISR-2442"
+ISR-2457,Cannot go to Info from the appointment slot page,Bug,Closed,Major,Fixed,6/6/2017 13:27,6/12/2017 16:37,6/9/2017 12:59,
+ISR-2458,Location Lookup page-Next Available appt. always shows N/A,Bug,Closed,Major,Unresolved,6/6/2017 13:29,6/7/2017 14:45,,
+ISR-2460,Dotcom Autotech reservation missing Created By in the Autotech Reservation view,Bug,Closed,Minor,Won't Fix,6/6/2017 14:45,6/16/2017 12:30,6/7/2017 8:16,ISR-2526
+ISR-2466,"Unable to ignore Vehicle Info Optional filed ""Trim"" in order to get Service Info",Bug,Closed,Minor,Not Applicable,6/6/2017 16:42,6/6/2017 18:05,6/6/2017 18:05,ISR-1800
+ISR-2468,Autotech appointment confirmation showing 15 minutes for skus with duration of 0 minutes,Bug,Closed,Major,Fixed,6/6/2017 18:17,6/9/2017 13:09,6/9/2017 12:58,ISR-2469
+ISR-2469,Service and SKU Description missing in the Autotech reservation confirmation page,Bug,Closed,Critical,Fixed,6/6/2017 18:22,6/20/2017 17:55,6/16/2017 14:40,ISR-2468
+ISR-2472,AASP-Location Lookup page-The info pop up contents do not match the requirements,Bug,Closed,Minor,Fixed,6/7/2017 11:14,6/16/2017 13:26,6/14/2017 12:02,ISR-2345
+ISR-2473,There is no restriction on date selection beyond 60 days,Bug,Closed,Minor,Not a Bug,6/7/2017 12:27,6/7/2017 13:30,6/7/2017 13:14,ISR-2329
+ISR-2474,ASP-The ASP location is not called out on the map,Bug,Closed,Critical,Unresolved,6/7/2017 13:26,6/20/2017 16:20,,"ISR-2530, ISR-2347"
+ISR-2476,UAT - Location Lookup page-More Options-Next Available time displays system time zone,Bug,QA Complete,Critical,Fixed,6/7/2017 14:25,6/20/2017 19:12,6/17/2017 20:03,"ISR-2135, ISR-2306"
+ISR-2477,Location Lookup page-Error displays when searching with date and time,Bug,Closed,Major,Cannot Reproduce,6/7/2017 16:15,6/9/2017 13:27,6/9/2017 13:27,ISR-2320
+ISR-2478,"Location Lookup - No error displayed when an invalid city, state zip entered",Bug,Resolved,Minor,Won't Fix,6/8/2017 9:32,6/15/2017 14:49,6/9/2017 12:50,"ISR-2326, ISR-2361, ISR-2362"
+ISR-2483,Location Lookup page-Map View-Next Available info is not contained,Bug,Closed,Major,Fixed,6/9/2017 9:34,6/16/2017 13:20,6/15/2017 15:23,ISR-2363
+ISR-2484,Location Lookup-Store List displays a store 519 miles away,Bug,Closed,Major,Not a Bug,6/9/2017 9:49,6/9/2017 13:13,6/9/2017 12:47,"ISR-2366, ISR-2367"
+ISR-2486,Autotech-Make Reservations-Service Info-Advanced Tab- Checkboxes missing ion IE,Bug,Closed,Critical,Fixed,6/9/2017 11:00,6/14/2017 12:46,6/14/2017 12:02,ISR-2121
+ISR-2493,Precinct-Appt. Slot page-Find first does not display the correct time,Bug,Closed,Minor,Fixed,6/12/2017 9:03,6/16/2017 13:29,6/16/2017 8:30,"ISR-2238, ISR-2243"
+ISR-2500,Unable to create an Autotech reservation,Bug,Open,Minor,Unresolved,6/12/2017 17:12,6/17/2017 11:59,,
+ISR-2501,When a SKU in a module is removed all the SKUs in that module are removed,Bug,Closed,Major,Fixed,6/13/2017 10:07,6/16/2017 19:34,6/16/2017 8:31,ISR-1806
+ISR-2502,"When a SKU for a module is removed from the right side, the corresponding SKU is not unchecked on the left side",Bug,Resolved,Major,Won't Fix,6/13/2017 10:13,6/17/2017 16:17,6/15/2017 15:16,"ISR-2135, ISR-1806"
+ISR-2508,Sub Total v/s Total Price in Autotech Quote,Bug,Closed,Minor,Not a Bug,6/13/2017 14:48,6/13/2017 15:33,6/13/2017 15:02,ISR-1810
+ISR-2510,SASP - Samsung logo not displayed,Bug,Closed,Critical,Fixed,6/13/2017 15:32,6/15/2017 14:35,6/15/2017 8:29,ISR-2336
+ISR-2511,ASP map icons do not show AASP or SASP locationsn,Bug,Closed,Major,Fixed,6/13/2017 15:37,6/16/2017 19:34,6/15/2017 15:28,ISR-2336
+ISR-2513,UAT - Vehicle Info selection by entering lower case does not produce result,Bug,Closed,Major,Unresolved,6/14/2017 13:57,6/16/2017 16:22,,ISR-1603
+ISR-2515,UAT- Inconsistent Make & Model information,Bug,Closed,Blocker,Fixed,6/14/2017 14:20,6/22/2017 10:33,6/15/2017 8:27,ISR-1603
+ISR-2517,UAT - Vehicle drop down option not available,Bug,Closed,Major,Fixed,6/14/2017 14:40,6/22/2017 10:24,6/15/2017 8:27,ISR-1603
+ISR-2518,UAT - Vehicle Info Tabbing over drops you into the 4ptkey field instead of the next fit guide field selection,Bug,Closed,Minor,Fixed,6/14/2017 14:57,6/22/2017 10:23,6/16/2017 14:40,ISR-1603
+ISR-2519,UAT- Mismatch in Service Info between Fitguide and data in Agent UI,Bug,Closed,Blocker,Fixed,6/14/2017 15:51,6/22/2017 15:22,6/15/2017 8:27,ISR-1795
+ISR-2520,Autotech confirmation page giving SKU error,Bug,Closed,Critical,Fixed,6/14/2017 17:33,6/15/2017 12:07,6/15/2017 8:27,
+ISR-2524,UAT Autotech - Schedule Reservation - Info - Advanced tab - Selected SKUs show $0,Bug,Closed,Major,Won't Fix,6/16/2017 11:26,6/21/2017 16:38,6/16/2017 11:49,ISR-2122
+ISR-2525,"Autotech - Advanced tab details not displayed when ""Other"" is selected in the Make and Model",Bug,Closed,Major,Fixed,6/16/2017 11:44,6/17/2017 15:59,6/16/2017 14:39,ISR-2122
+ISR-2526,"Autotech Appt Details-""Created By"" and ""Last Modified By"" info not displayed in Agent UI when the appt. is created in Client UI",Bug,Closed,Major,Duplicate,6/16/2017 11:49,6/16/2017 12:30,6/16/2017 12:30,ISR-2460
+ISR-2527,"UAT SASP-Next Available Appts. shows N/A for stores that are only samsung stores-when booking appts., calls made for Get pr-appointment, not pr-samsungdrop",Bug,QA Complete,Blocker,Fixed,6/16/2017 13:14,6/21/2017 18:59,6/17/2017 8:58,"ISR-1645, ISR-2530"
+ISR-2529,Autotech-Create Reservation using the Use Next Available button on Location Lookup page fails,Bug,Closed,Major,Fixed,6/16/2017 15:08,6/21/2017 13:57,6/17/2017 8:57,
+ISR-2531,UAT- Mismatch in Resource availability,Bug,Closed,Critical,Not a Bug,6/16/2017 17:15,6/21/2017 19:59,6/17/2017 7:54,ISR-2134
+ISR-2532,"UAT- Wrong data under ""Vendor"" for both Part and Labor",Bug,Closed,Minor,Unresolved,6/16/2017 18:42,6/20/2017 13:38,,"ISR-1624, ISR-2528"
+ISR-2533,UAT - Selecting next available is booking times that do not line up with timeslots,Bug,QA Complete,Critical,Cannot Reproduce,6/16/2017 19:00,6/21/2017 20:27,6/17/2017 8:48,ISR-2135
+ISR-2534,UAT - Slots showing for unavailable times.,Bug,Resolved,Minor,Not a Bug,6/17/2017 7:55,6/21/2017 19:57,6/21/2017 9:17,
+ISR-2535,Precinct reservation from one store showing under different store.,Bug,Closed,Minor,Fixed,6/17/2017 15:10,6/19/2017 20:21,6/17/2017 20:22,
+ISR-2539,Cancel and reschedule Samsung Drop Reservation does not display the reasons for cancellation,Bug,Closed,Minor,Unresolved,6/19/2017 11:20,6/21/2017 14:19,,"ISR-2530, ISR-1492"
+ISR-2540,UAT - No skill set reflecting for associated labor in remote start??,Bug,Resolved,Major,Won't Fix,6/19/2017 13:08,6/21/2017 19:14,6/19/2017 22:57,
+ISR-2545,UAT - Trim error in Non Standard vehicle,Bug,Open,Minor,Unresolved,6/19/2017 17:41,6/21/2017 9:29,,ISR-2296
+ISR-2546,Map view is not available in POS,Bug,Open,Minor,Unresolved,6/19/2017 21:56,6/27/2017 12:36,,
+ISR-2560,UAT - White screen opens when login into Breeze,Bug,Open,None,Unresolved,6/20/2017 13:31,6/21/2017 19:19,,
+ISR-2561,UAT - Map is not loading,Bug,Closed,Critical,Fixed,6/20/2017 13:40,6/21/2017 16:45,6/20/2017 15:09,
+ISR-2568,Precinct - Create Reservation - Appt. time incorrect,Bug,Closed,Major,Unresolved,6/20/2017 16:04,6/21/2017 13:52,,
+ISR-2579,System allowing entering wrong Make and Model combination while editing an existing reservation.,Bug,Closed,Critical,Not a Bug,6/20/2017 17:23,6/21/2017 16:33,6/20/2017 17:46,
+ISR-2582,Location Lookup-Pushpins do not display on the map,Bug,Open,Blocker,Unresolved,6/21/2017 11:28,6/22/2017 13:16,,
+ISR-2583,"Autotech-Rescheduling an appt., does not show the material fee in service info",Bug,Closed,Major,Unresolved,6/21/2017 11:38,6/22/2017 9:59,,ISR-2543
+ISR-2584,Autotech-Rescheduling a reservation does not show the duration and subtotal,Bug,Closed,Major,Unresolved,6/21/2017 11:45,6/22/2017 10:00,,
+ISR-2585,Autotech-Reschedule Reservation does not include the original SKU fees,Bug,Closed,Major,Unresolved,6/21/2017 11:54,6/22/2017 10:00,,
+ISR-2587,Unable to update the duration in a quote,Bug,Closed,Critical,Unresolved,6/21/2017 15:10,6/23/2017 15:02,,ISR-2122
+ISR-2588,UAT - Vehicle and Service info missing for reschedule fow.,Bug,Closed,Critical,Duplicate,6/21/2017 16:21,6/21/2017 17:46,6/21/2017 17:46,
+ISR-2589,UAT - Vehicle Trim Info giving error for reschedule flow.,Bug,In Progress,Critical,Unresolved,6/21/2017 16:25,6/27/2017 13:02,,ISR-2122
+ISR-2590,UAT - Material Fee missing in case of Reschedule flow,Bug,Closed,Blocker,Unresolved,6/21/2017 16:49,6/27/2017 15:17,,
+ISR-2592,UAT - Miscalculated Category line item durations.,Bug,QA Complete,Blocker,Unresolved,6/21/2017 17:25,6/22/2017 10:58,,ISR-2122
+ISR-2593,UAT - First available time is being incorrectly displayed for Autotech,Bug,Resolved,Blocker,Unresolved,6/21/2017 18:03,6/23/2017 15:33,,ISR-2135
+ISR-2594,UAT- Reschedule for nonstandard vehicle does not work,Bug,Closed,Blocker,Unresolved,6/22/2017 11:29,6/27/2017 14:50,,ISR-2296
+ISR-2595,"UAT- When you update the Vehicle selection, the previous selected check box are still selected without adding the SKU in the quote.",Bug,Closed,Critical,Unresolved,6/22/2017 13:36,6/27/2017 14:32,,
+ISR-2611,Discrepancy in Adding an additional part to a package for remote start,Bug,In QA,Critical,Unresolved,6/22/2017 18:04,6/27/2017 15:29,,ISR-1624
+ISR-2630,UAT - Double click on Fitguide checkbox adds duration twice.,Bug,Resolved,Major,Fixed,6/27/2017 14:59,6/27/2017 15:28,6/27/2017 15:28,
