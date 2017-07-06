@@ -1,0 +1,55 @@
+.chart{
+	background: lightGray;
+}
+
+.bug{
+	cursor: pointer;
+}
+
+.bug:hover .bugEndPoint{
+	box-shadow: 2px 2px 2px black;
+}
+
+.bugEndPoint{
+	transform-origin: 50% 50%;
+	transform: scale(1,1);
+}
+
+.bugLine{
+	stroke-width: 0;
+	fill: black;
+	height: 4px;
+}
+
+
+
+/* Bug Statuses */
+.openCircle{
+	fill: lightGray;
+	stroke-width: 1px;
+}
+
+.open{
+	composes: openCircle;
+	stroke: black;
+}
+
+.fixed{
+	fill: green;
+}
+
+.unresolved{
+	display: none;
+}
+
+.notabug{
+	fill: red;
+}
+
+.duplicate{
+	fill: darkRed;
+}
+
+.wontfix{
+	fill: darkGray;
+}
