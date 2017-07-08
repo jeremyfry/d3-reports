@@ -1,5 +1,8 @@
+@value bugHeight: 8px;
+@value endPointTransform: -7px;
 .chart{
 	background: lightGray;
+	position: relative;
 }
 
 .bug{
@@ -11,35 +14,36 @@
 }
 
 .bugEndPoint{
-	transform-origin: 50% 50%;
-	transform: scale(1,1);
+	height: bugHeight;
+	width: bugHeight;
+	transform: translate(endPointTransform, 0);
+	stroke: black;
 }
 
 .bugLine{
 	stroke-width: 0;
-	fill: black;
-	height: 4px;
+	fill: rgba(0,0,0,0.6);
+	height: bugHeight;
 }
 
-
+.tooltip{
+	position: absolute;
+	background-color: lightGray;
+	border: 1px solid black;
+	border-radius: 2px;
+	padding: 10px;
+	pointer-events: none;
+	white-space: nowrap;
+}
 
 /* Bug Statuses */
-.openCircle{
-	fill: lightGray;
-	stroke-width: 1px;
-}
-
-.open{
-	composes: openCircle;
-	stroke: black;
-}
-
 .fixed{
 	fill: green;
 }
 
 .unresolved{
-	display: none;
+	stroke: gray;
+	fill: lightGray;
 }
 
 .notabug{
